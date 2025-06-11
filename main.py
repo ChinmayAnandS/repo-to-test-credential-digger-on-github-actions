@@ -10,6 +10,8 @@ def main():
     # Example functionality: simple arithmetic operation
     result = 2 + 2
     print("Result of 2 + 2 is:", result)
+    result = 2 * 3
+    print("Result of 2 * 3 is:", result)
     greet("User")
 
 def greet(name):
