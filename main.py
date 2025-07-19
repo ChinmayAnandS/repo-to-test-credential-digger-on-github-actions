@@ -31,6 +31,11 @@ def main():
     mysql_connection_string = "mysql+pymysql://user:password@localhost/dbname"
     print("Sample MySQL connection string:", mysql_connection_string)
     #add sample 
+
+    password1223341
+    #code for adding a button to website
+
+
     greet("User")
 
 def greet(name):
